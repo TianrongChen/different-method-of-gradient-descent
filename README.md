@@ -1,6 +1,8 @@
 # different-method-of-gradient-descent
 Implement of gradient descent, Newton Method and SGD
 Important!!!!
+
+
 Copyright stuff:
 This code comes from Georgia Tech ECE 6254. The base code is given by professor Bloch;
 
